@@ -3,7 +3,7 @@ studying Springframework +Spring MVC +Mybatis Demo，
 frontend uses `vue.js+bulma`，backend uses `Spring MVC Restful`.  
 ===================================================================
 
-## Original Repository is at ['简单的Spring+SpringMVC+Mybatis+vuejs+webpack的整合项目的源码 '](https://github.com/javaor/HelloSSM "a book on Springframework3 and REST Ajax, and I will convert this source into a new one with React.js" ) and the authors' cafe : [Cafe run by Author of this book](http://cafe.naver.com/gugucoding "简单的Spring+SpringMVC+Mybatis+vuejs+webpack的整合项目的源码 " )    
+## Original Repository is at ['简单的Spring+SpringMVC+Mybatis+vuejs+webpack的整合项目的源码 '](https://github.com/javaor/HelloSSM "a book on Springframework3 and REST Ajax, and I will convert this source into a new one with React.js" )     
 ## My Summary is here ['ShareComment_VueJsSpringframework_Summary'](https://docs.google.com/presentation/d/1yNiWbA6Ya3ZWm3wQIzRrfX_G0gPSwLMgx1aShLrJFq0/edit?usp=sharing "ShareComment_VueJsSpringframework_Summary" ) and please make and share your example. Your help to solve my questions on my slide will be appreciated much.      
 
 
