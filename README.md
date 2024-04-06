@@ -18,5 +18,4 @@ Vue.js 와 Java Spring 을 사용해서 뭔가 공익적인 측면에 도움이 
 
 I hope to make something good to make our society better.  
 If you are interested in my idea, please send your mail to me.  
-e-mail : tudoistube@gmail.com
 ---
